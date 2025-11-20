@@ -2,7 +2,7 @@
 ## Corpus description
 This corpus contains lyrics from seven songs by Arctic Monkeys. One song is selected from each album released between 2006 and 2022. The corpus is designed to explore changes in vocabulary, themes, writing style, and sentiment over time.
 ## Target audience
-This corpus is intended for musicologists and linguists who work with digital data and are interested in the lyrical evolution of Arctic Monkeys.
+This corpus is intended for musicologists and linguists who work with digital tools and are interested in the lyrical evolution of Arctic Monkeys.
 ## Text selection
 One song per album, usually the one with the most text, was selected to keep the corpus minimal. However, including every song from all albums would ensure more accurate analysis. 
 ## Data collection
